@@ -24,7 +24,8 @@ public class ModBlocks {
 
     public static final RegistryObject<Block> MACARONI_BLOCK = registerBlock("macaroni_block",
             () -> new Block(BlockBehaviour.Properties.of(Material.STONE)
-                    .strength(6f).requiresCorrectToolForDrops()), ModCreativeModeTab.TRAINING_TAB;
+                    .strength(6f).requiresCorrectToolForDrops()), ModCreativeModeTab.TRAINING_TAB);
+
     public static final RegistryObject<Block> MACARONI_ORE = registerBlock("macaroni_ore",
             () -> new DropExperienceBlock(BlockBehaviour.Properties.of(Material.STONE)
                     .strength(6f).requiresCorrectToolForDrops(),
