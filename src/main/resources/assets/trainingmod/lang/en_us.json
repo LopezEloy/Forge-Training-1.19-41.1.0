@@ -2,5 +2,9 @@
   "item.trainingmod.macaroni": "Macaroni",
   "item.trainingmod.raw_macaroni": "Raw Macaroni",
 
+  "block.trainingmod.macaroni_block": "Block of Macaroni",
+  "block.trainingmod.macaroni_ore": "Macaroni Ore",
+  "block.trainingmod.deepslate_macaroni_ore": "Deepslate Macaroni Ore",
+
   "itemGroup.trainingtab": "Macaroni Training Tab"
 }
